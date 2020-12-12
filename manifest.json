@@ -1,10 +1,10 @@
 {
 	"files": {
-		"Autoupdate.dll": "b43fb3c9753cf2555c0da4a6a6936a4278596efbb484e6c0ce57658a8c3a7162",
+		"Autoupdate.dll": "d4b90ac90932ced076e69903fe5be529ca97e3a3d6179945450594907d0c3be5",
 		"Autoupdate.dll.config": "d121f479faf6bdef96527acb5176e3af92f61c974461c285973d3153f8cfe85c",
-		"Autoupdate.exe": "f7e4423c0c84c81bfac60106f320da955c2023675d782112ca41289f819e37b4",
+		"Autoupdate.exe": "f4c36dc8c470bab23a04b8ca7b0dd57a24f95bbabb6597ce82db8e8949a2e698",
 		"DamageMeter.D3D9Render.dll": "9594aebb60ff08bfd1c54ff169dcc72f038671446a8117ca4a3add3db0b3fa17",
-		"DamageMeter.Sniffing.dll": "0319f4be28b7daf71a36383b5853022717c28f795ea619ea3c29473f05088b5f",
+		"DamageMeter.Sniffing.dll": "19bdb20c05b2041a8b1f8d0d637e69a0e224b6ade6cf420530a3d6cf966738bf",
 		"DamageMeter.dll": "e040044a32dd3676860ec61a8506544ad9e807b3d0ddc9802b2b57e39731b50c",
 		"DamageMeter.dll.config": "c6e45abd1206105ad02e1e6a3ad1475f31a58d8915dd60ac8986df0ede94e1f3",
 		"Data.dll": "891758beb0fe0b42afd5798953994970923519afeb6d73a9f3b4a792ff1eae8b",
@@ -83,7 +83,7 @@
 		"it/Xceed.Wpf.AvalonDock.resources.dll": "fd4a1ba01fcad66397fad5c102d234a5a6d4d7c074435aa59e31512dcb3aea86",
 		"ja/Lang.resources.dll": "7f84523f5ff5136772bf2d4695e7283ef479686e4af9d6ce056fe0d64a89a484",
 		"js/control-interface.js": "1cb04f49718f77383bf8c89f4a520e5fa3c451cd0614609e8e2a27af7a04f079",
-		"js/data-interface.js": "0b71f9a66280c9c421daf51e98582aa60dd0e2bcd19cc89324520b6898a328b1",
+		"js/data-interface.js": "74cf66975a30aec7ab972a093e52a8eba4793d8ebdbbfabcc403d1cf665759ba",
 		"js/helpers.js": "07f01be50f562010c26251900e02a27f4d34634b155ece88b80e18650711d856",
 		"js/rpc-handler.js": "44305fc41be2e10a22fc1a623bd6c9fa8d925887424d9409ca28995577eb618b",
 		"js/rpc-server.js": "003440bd3886c42be8494946b959bdd4f2b1a1f528c1cc635d76d8c5ee9c2a09",
