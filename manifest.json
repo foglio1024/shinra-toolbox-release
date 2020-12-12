@@ -1,11 +1,11 @@
 {
 	"files": {
-		"Autoupdate.dll": "d4b90ac90932ced076e69903fe5be529ca97e3a3d6179945450594907d0c3be5",
+		"Autoupdate.dll": "b43fb3c9753cf2555c0da4a6a6936a4278596efbb484e6c0ce57658a8c3a7162",
 		"Autoupdate.dll.config": "d121f479faf6bdef96527acb5176e3af92f61c974461c285973d3153f8cfe85c",
-		"Autoupdate.exe": "f4c36dc8c470bab23a04b8ca7b0dd57a24f95bbabb6597ce82db8e8949a2e698",
+		"Autoupdate.exe": "f7e4423c0c84c81bfac60106f320da955c2023675d782112ca41289f819e37b4",
 		"DamageMeter.D3D9Render.dll": "9594aebb60ff08bfd1c54ff169dcc72f038671446a8117ca4a3add3db0b3fa17",
 		"DamageMeter.Sniffing.dll": "0319f4be28b7daf71a36383b5853022717c28f795ea619ea3c29473f05088b5f",
-		"DamageMeter.dll": "4de7e8baf4a827fbb1fa4fa25629e4cf5e7401b0f6003de4805fdda22f424d63",
+		"DamageMeter.dll": "e040044a32dd3676860ec61a8506544ad9e807b3d0ddc9802b2b57e39731b50c",
 		"DamageMeter.dll.config": "c6e45abd1206105ad02e1e6a3ad1475f31a58d8915dd60ac8986df0ede94e1f3",
 		"Data.dll": "891758beb0fe0b42afd5798953994970923519afeb6d73a9f3b4a792ff1eae8b",
 		"DiscordRPC.dll": "7791e835eb5f27316f02501bb2cecb18e291aeccf5043476daac3ca4d783df8d",
@@ -39,7 +39,7 @@
 		"SevenZipSharp.dll": "d131e70c5d0ad008f95b3775a014cd865de1d3802e8f065e82c504778685a656",
 		"SharpPcap.dll": "21c503dbc18755f735dd10dad497557a30f56e11a98cd44b06198067e2a68ac0",
 		"ShinraMeter.deps.json": "cf48a21a64f2a55ed483bee384afd1aca9fc0881406ba5e1443a21d5772feb6e",
-		"ShinraMeter.dll": "23d1795c627102be469b45fe9e6146636e5713bfbd8de414a9fd11a792f8888a",
+		"ShinraMeter.dll": "cb07eb1d3702ab1b272088c4064467c63f2e78cf75b3dedc3f9d0a6aaf6efc12",
 		"ShinraMeter.dll.config": "6e0c9d372daa5bab00c9498410948087f0dfd04821fb50837ed4b2e2be5db8e8",
 		"ShinraMeter.exe": "442c72ba35c0b2d046bb190dd32374837a3d34f93d4c7f3e15b793809be1431f",
 		"ShinraMeter.runtimeconfig.json": "7914a590a57f09a93b8a1f1263b096f2fd9f839bde818df1da951c6fa558263b",
