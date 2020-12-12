@@ -70,7 +70,7 @@ class DataInterface
         this.interface.connect(port, address);
         this.interface.on('error', (err) =>
         {
-            if (err.code === 'ERR_STREAM_DESTROYED')
+            if (err.code === 'ERR_STREAM_DESTROYED' || err.code === 'ERR_STREAM_WRITE_AFTER_END')
             {
                 this.interface.end();
                 this.mod.error("[shinra-interface] Meter was closed or disconnected.");
