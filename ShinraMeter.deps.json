@@ -27,7 +27,9 @@
           "Nostrum": "1.2.7",
           "System.Net.NameResolution": "4.3.0",
           "Tera.Core": "1.0.0",
-          "log4net": "2.0.8"
+          "log4net": "2.0.8",
+          "Autoupdate.Reference": "1.0.0.0",
+          "DamageMeter.Reference": "1.0.0.0"
         },
         "runtime": {
           "ShinraMeter.dll": {}
@@ -1557,6 +1559,22 @@
           "Tera.Core.dll": {}
         }
       },
+      "Autoupdate.Reference/1.0.0.0": {
+        "runtime": {
+          "Autoupdate.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DamageMeter.Reference/1.0.0.0": {
+        "runtime": {
+          "DamageMeter.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Interop.SpeechLib/5.4.0.0": {
         "runtime": {
           "Interop.SpeechLib.dll": {
@@ -2765,6 +2783,16 @@
     },
     "Tera.Core/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Autoupdate.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DamageMeter.Reference/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
