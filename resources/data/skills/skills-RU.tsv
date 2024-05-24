@@ -332,7 +332,7 @@
 100320	Common	Common	Archer	Оглушающая ловушка III	False		icon_skills.paralysistrap_tex
 100400	Common	Common	Archer	Оглушающая ловушка IV	False		icon_skills.paralysistrap_tex
 100420	Common	Common	Archer	Оглушающая ловушка IV	False		icon_skills.paralysistrap_tex
-100500	Common	Common	Archer	Оглушающая ловушка V	False		icon_skills.paralysistrap_tex
+100500	Common	Common	Archer	Stunning Trap V	False		icon_skills.paralysistrap_tex
 100520	Common	Common	Archer	Оглушающая ловушка V	False		icon_skills.paralysistrap_tex
 110100	Common	Common	Archer	Ядовитая ловушка I	False		icon_skills.venomtrap_tex
 110120	Common	Common	Archer	Ядовитая ловушка I	False		icon_skills.venomtrap_tex
@@ -644,11 +644,11 @@
 11501	Common	Common	Berserker	Комбо-атака XV	False	hit 2	icon_skills.comboattack_tex
 11502	Common	Common	Berserker	Комбо-атака XV	False	hit 3	icon_skills.comboattack_tex
 11503	Common	Common	Berserker	Комбо-атака XV	False	hit 4	icon_skills.comboattack_tex
-20100	Common	Common	Berserker	Блок топором	False		icon_skills.weapondefence_tex
+20100	Common	Common	Berserker	Axe Block I	False		icon_skills.weapondefence_tex
 20200	Common	Common	Berserker	Блок топором II	False		icon_skills.weapondefence_tex
-20230	Common	Common	Berserker	Блок топором	False		icon_skills.weapondefence_tex
-20231	Common	Common	Berserker	Блок топором	False	Fury	icon_skills.weapondefence_tex
-20300	Common	Common	Berserker	Блок топором	False		icon_skills.weapondefence_tex
+20230	Common	Common	Berserker	Axe Block II	False		icon_skills.weapondefence_tex
+20231	Common	Common	Berserker	Axe Block II	False	Fury	icon_skills.weapondefence_tex
+20300	Common	Common	Berserker	Axe Block III	False		icon_skills.weapondefence_tex
 30100	Common	Common	Berserker	Громовой удар I	False		icon_skills.blastslash_tex
 30110	Common	Common	Berserker	Громовой удар I	False	hit 1	icon_skills.blastslash_tex
 30111	Common	Common	Berserker	Громовой удар I	False	hit 2	icon_skills.blastslash_tex
@@ -817,7 +817,7 @@
 80500	Common	Common	Berserker	Огненная ярость V	False		icon_skills.berserk_tex
 80501	Common	Common	Berserker	Огненная ярость V	False		icon_skills.berserk_tex
 80530	Common	Common	Berserker	Огненная ярость V	False	Fury	icon_skills.berserk_tex
-80600	Common	Common	Berserker	Огненная ярость VI	False		icon_skills.berserk_tex
+80600	Common	Common	Berserker	Fiery Rage VI	False		icon_skills.berserk_tex
 80601	Common	Common	Berserker	Огненная ярость VI	False		icon_skills.berserk_tex
 80630	Common	Common	Berserker	Огненная ярость VI	False	Fury	icon_skills.berserk_tex
 80700	Common	Common	Berserker	Огненная ярость VII	False		icon_skills.berserk_tex
@@ -1043,7 +1043,8 @@
 190400	Common	Common	Berserker	Клич победителя IV	False		icon_skills.tenacity_tex
 190500	Common	Common	Berserker	Клич победителя V	False		icon_skills.tenacity_tex
 200100	Common	Common	Berserker	Неотвратимый рок I	False		icon_skills.murderousvent_tex
-200200	Common	Common	Berserker	Неотвратимый рок II	False		icon_skills.murderousvent_tex
+200200	Common	Common	Berserker	Inescapable Doom II	False		icon_skills.murderousvent_tex
+200201	Common	Common	Berserker	Неотвратимый рок	False		icon_skills.murderousvent_tex
 200300	Common	Common	Berserker	Неотвратимый рок III	False		icon_skills.murderousvent_tex
 200400	Common	Common	Berserker	Неотвратимый рок IV	False		icon_skills.murderousvent_tex
 210100	Common	Common	Berserker	Кровожадность I	False	Fury	icon_skills.fury_tex
@@ -1127,8 +1128,8 @@
 260120	Common	Common	Berserker	Подножка	False		icon_skills.throwaxe_tex
 270100	Common	Common	Berserker	Неразрушимость	False		icon_skills.selfbuff_tex
 270130	Common	Common	Berserker	Неразрушимость	False		icon_skills.selfbuff_tex
-280100	Common	Common	Berserker	Устрашение	False	On	icon_skills.toughspirit_tex
-280150	Common	Common	Berserker	Устрашение	False	Off	icon_skills.toughspirit_tex
+280100	Common	Common	Berserker	Intimidation	False	On	icon_skills.toughspirit_tex
+280150	Common	Common	Berserker	Intimidation	False	Off	icon_skills.toughspirit_tex
 290100	Common	Common	Berserker	Уклонение	False		icon_skills.tumbling_tex
 300100	Common	Common	Berserker	Контрудар топором	False		icon_skills.determinationofadvance_tex
 300130	Common	Common	Berserker	Контрудар топором	False		icon_skills.determinationofadvance_tex
@@ -2522,24 +2523,24 @@
 440101	Common	Common	Gunner	Месть Балдера II	False		icon_skills.flashcannon_tex
 440120	Common	Common	Gunner	Месть Балдера II	False		icon_skills.flashcannon_tex
 440130	Common	Common	Gunner	Месть Балдера II	True		icon_skills.flashcannon_tex
-470100	Common	Common	Gunner	Ковровая бомбардировка	False		icon_skills.carpetbombing_tex
-470101	Common	Common	Gunner	Ковровая бомбардировка	False		icon_skills.carpetbombing_tex
-470102	Common	Common	Gunner	Ковровая бомбардировка	False		icon_skills.carpetbombing_tex
-470130	Common	Common	Gunner	Ковровая бомбардировка	True		icon_skills.carpetbombing_tex
-470140	Common	Common	Gunner	Ковровая бомбардировка	False		icon_skills.carpetbombing_tex
-470150	Common	Common	Gunner	Ковровая бомбардировка	False		icon_skills.carpetbombing_tex
-470151	Common	Common	Gunner	Ковровая бомбардировка	False		icon_skills.carpetbombing_tex
-470152	Common	Common	Gunner	Ковровая бомбардировка	False		icon_skills.carpetbombing_tex
-470153	Common	Common	Gunner	Ковровая бомбардировка	False		icon_skills.carpetbombing_tex
-470154	Common	Common	Gunner	Ковровая бомбардировка	False		icon_skills.carpetbombing_tex
-470155	Common	Common	Gunner	Ковровая бомбардировка	False		icon_skills.carpetbombing_tex
-470156	Common	Common	Gunner	Ковровая бомбардировка	False		icon_skills.carpetbombing_tex
-470157	Common	Common	Gunner	Ковровая бомбардировка	False		icon_skills.carpetbombing_tex
-470158	Common	Common	Gunner	Ковровая бомбардировка	False		icon_skills.carpetbombing_tex
-470159	Common	Common	Gunner	Ковровая бомбардировка	False		icon_skills.carpetbombing_tex
-470160	Common	Common	Gunner	Ковровая бомбардировка	False		icon_skills.carpetbombing_tex
-470161	Common	Common	Gunner	Ковровая бомбардировка	False		icon_skills.carpetbombing_tex
-470170	Common	Common	Gunner	Ковровая бомбардировка	False	Boom	icon_skills.carpetbombing_tex
+470100	Common	Common	Gunner	Obliteration	False		icon_skills.carpetbombing_tex
+470101	Common	Common	Gunner	Obliteration	False		icon_skills.carpetbombing_tex
+470102	Common	Common	Gunner	Obliteration	False		icon_skills.carpetbombing_tex
+470130	Common	Common	Gunner	Obliteration	True		icon_skills.carpetbombing_tex
+470140	Common	Common	Gunner	Obliteration	False		icon_skills.carpetbombing_tex
+470150	Common	Common	Gunner	Obliteration	False		icon_skills.carpetbombing_tex
+470151	Common	Common	Gunner	Obliteration	False		icon_skills.carpetbombing_tex
+470152	Common	Common	Gunner	Obliteration	False		icon_skills.carpetbombing_tex
+470153	Common	Common	Gunner	Obliteration	False		icon_skills.carpetbombing_tex
+470154	Common	Common	Gunner	Obliteration	False		icon_skills.carpetbombing_tex
+470155	Common	Common	Gunner	Obliteration	False		icon_skills.carpetbombing_tex
+470156	Common	Common	Gunner	Obliteration	False		icon_skills.carpetbombing_tex
+470157	Common	Common	Gunner	Obliteration	False		icon_skills.carpetbombing_tex
+470158	Common	Common	Gunner	Obliteration	False		icon_skills.carpetbombing_tex
+470159	Common	Common	Gunner	Obliteration	False		icon_skills.carpetbombing_tex
+470160	Common	Common	Gunner	Obliteration	False		icon_skills.carpetbombing_tex
+470161	Common	Common	Gunner	Obliteration	False		icon_skills.carpetbombing_tex
+470170	Common	Common	Gunner	Obliteration	False	Boom	icon_skills.carpetbombing_tex
 510120	Common	Common	Gunner	[РП-1] Ковровая бомбардировка	False		icon_skills.arcanepieces_tex
 520120	Common	Common	Gunner	Вызов осколка силы воли	False		icon_skills.arcanepieces_tex
 10100	Common	Common	Lancer	Комбо-атака I	False	hit 1	icon_skills.comboattack_tex
@@ -7220,7 +7221,7 @@
 280214	Common	Common	Common	Призыв: Флаг силы			icon_items.scroll_dot_protect_level_1_tex
 280215	Common	Common	Common	Призыв: Флаг выносливости			icon_items.scroll_dot_protect_level_1_tex
 280216	Common	Common	Common	Призыв: Железный Авангард			icon_items.scroll_dot_protect_level_1_tex
-280217	Common	Common	Common	Призыв: торговец			icon_skills.guildskills_basehp_tex
+280217	Common	Common	Common	Призыв: Торговец			icon_skills.guildskills_basehp_tex
 900001	Common	Common	Common	Призыв: Боевой конь Нексуса		mount	icon_skills.vehicle_horse_red_tex
 1000000	Common	Common	Common	Свиток охотника за монетами: 30% (1 час)			icon_items.f2p_dropgoldbooster_tex
 1000001	Common	Common	Common	Свиток Щедрости: 30% (1 час)			icon_items.f2p_questrewardbooster_tex
@@ -9695,7 +9696,7 @@
 14600690	Common	Common	Common	[Событие] Сундук третьего этапа		eventseed	icon_items.vergos_box02_tex
 14600691	Common	Common	Common	[Событие] Сундук четвертого этапа		eventseed	icon_items.vergos_box01_tex
 15200004	Common	Common	Common	Яд			icon_items.q_flaskseal_tex
-15210001	Common	Common	Common	Призыв: Песчаный слон		mount	icon_skills.vehicle_elephant_tex
+15210001	Common	Common	Common	Призыв: Фортуна Сообщества Торговцев		mount	icon_skills.horse_lord_c_tex
 15210002	Common	Common	Common	Призыв: Боевой лев		mount	icon_skills.trans_lion_white_tex
 15300000	Common	Common	Common	Призыв: Королевский снежный лев (HP, MP)		mount	icon_skills.trans_lion_white_tex
 15300038	Common	Common	Common	 		mount	icon_skills.trans_lion_wolf_gold_tex
@@ -12519,7 +12520,7 @@
 60150100	Common	Common	Common	Дрова			icon_items.q_torch_tex
 60160100	Common	Common	Common	Костер			icon_items.campfire_tex
 60160110	Common	Common	Common	Свеча Санты			icon_items.christmastree_tex
-60160111	Common	Common	Common	Костер Спешки			icon_items.campfire02_tex
+60160111	Common	Common	Common	Костер спешки			icon_items.campfire02_tex
 60160112	Common	Common	Common	Костер чармов			icon_items.campfire03_tex
 60193023	Common	Common	Common	Подарок к годовщине		eventseed	icon_items.gift_box03_tex
 60193024	Common	Common	Common	Коробка с подарком охотника		eventseed	icon_items.gift_box03_tex
@@ -12891,7 +12892,7 @@
 60320101	Common	Common	Common	Настоявшееся снадобье обновления ветерана			icon_items.potion15_tex
 60330100	Common	Common	Common	Варварское снадобье Федерации			icon_items.rare_potion11_tex
 60330101	Common	Common	Common	Варварское снадобье буйности			icon_items.potion11_tex
-60340101	Common	Common	Common	Варварское снадобье неумолимости			icon_items.potion17_tex
+60340101	Common	Common	Common	Непоколебимое зелье варварства			icon_items.potion17_tex
 60340102	Common	Common	Common	Шанс Велики			icon_items.dungeon_recall_tex
 60340103	Common	Common	Common	Шанс Велики			icon_items.dungeon_recall_tex
 60340118	Common	Common	Common	Combat Accelerator Potion			icon_items.add_extract_potion_1_tex
@@ -14025,7 +14026,7 @@
 98140062	Common	Common	Common	Зелье замедления			icon_items.potion9_tex
 98140157	Common	Common	Common	Демонические крылья			icon_status.darkriftdestroy_tex
 98140159	Common	Common	Common	Dropout Cleanse			icon_items.hmp_durabie_potion_level_49_tex
-98140160	Common	Common	Common	[Battleground] Smilecracker			icon_items.smile_firecracker_tex
+98140160	Common	Common	Common	[Арена] Хлопушка-улыбушка			icon_items.smile_firecracker_tex
 98140161	Common	Common	Common	Снежок			icon_items.snowball_large_tex
 98141000	Common	Common	Common	Универсальное зелье силы Менмы			icon_items.menma_strong_multinostrum
 98150000	Common	Common	Common	Свиток сброса подземелья [Раскаленный Крейсер Стремление]			icon_items.dungeonresetscroll_tex
@@ -14126,6 +14127,12 @@
 98245070	Common	Common	Common	Полет: Халрат		mount	icon_skills.vehicle_halrath_tex
 98245071	Common	Common	Common	Умение полета: Пушистое облачко		mount	icon_skills.vehicle_cloud_tex
 98245072	Common	Common	Common	Summon: Fat Kitty		mount	icon_skills.vehicle_fatkitty_tex
+98245073	Common	Common	Common	Flight: Capybara		mount	icon_skills.vehicle_capybara_tex
+98245074	Common	Common	Common	Flight: Capybara with Chick and Turtle		mount	icon_skills.vehicle_capybaraanimals_tex
+98245075	Common	Common	Common	Flight: Cozy Capybara		mount	icon_skills.vehicle_cozycapybara_tex
+98245076	Common	Common	Common	Flight: Cozy Capybara with Chick		mount	icon_skills.vehicle_cozycapybaraanimals_tex
+98245077	Common	Common	Common	Flying Skill: Ancient Mighty Stygian War Gryphon		mount	icon_skills.vehicle_statdragon_e_tex
+98245078	Common	Common	Common	Flying Skill: Ancient Mighty Empyrean War Gryphon		mount	icon_skills.vehicle_statdragon_f_tex
 98340001	Common	Common	Common	Маленький ящик с припасами гильдии			icon_items.mysterybox5_tex
 98340010	Common	Common	Common	Коробка с геройским снаряжением (оружие)			icon_items.gift_box04_tex
 98340011	Common	Common	Common	Коробка с геройским снаряжением (доспех)			icon_items.gift_box04_tex
