@@ -1541,7 +1541,10 @@
       },
       "Autoupdate/1.0.0": {
         "runtime": {
-          "Autoupdate.dll": {}
+          "Autoupdate.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": ""
+          }
         }
       },
       "DamageMeter/1.0.0": {
@@ -1561,7 +1564,10 @@
           "Tera.Core": "1.0.0"
         },
         "runtime": {
-          "DamageMeter.dll": {}
+          "DamageMeter.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": ""
+          }
         }
       },
       "DamageMeter.D3D9Render/1.0.0": {
@@ -1569,7 +1575,10 @@
           "Data": "1.0.0"
         },
         "runtime": {
-          "DamageMeter.D3D9Render.dll": {}
+          "DamageMeter.D3D9Render.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "DamageMeter.Sniffing/1.0.0": {
@@ -1579,7 +1588,10 @@
           "Tera.Core": "1.0.0"
         },
         "runtime": {
-          "DamageMeter.Sniffing.dll": {}
+          "DamageMeter.Sniffing.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Data/1.0.0": {
@@ -1595,12 +1607,18 @@
           "log4net": "2.0.8"
         },
         "runtime": {
-          "Data.dll": {}
+          "Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Lang/1.0.0": {
         "runtime": {
-          "Lang.dll": {}
+          "Lang.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "resources": {
           "fr/Lang.resources.dll": {
@@ -1636,7 +1654,10 @@
           "log4net": "2.0.8"
         },
         "runtime": {
-          "NetworkSniffer.dll": {}
+          "NetworkSniffer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Tera.Core/1.0.0": {
@@ -1645,7 +1666,10 @@
           "System.Drawing.Common": "7.0.0"
         },
         "runtime": {
-          "Tera.Core.dll": {}
+          "Tera.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Autoupdate.Reference/1.0.0.0": {
